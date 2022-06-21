@@ -129,4 +129,5 @@ exports.IniciarSesion = async (req, res) => {
             MSJ(res,500,error)
         }
     }
+   
 }

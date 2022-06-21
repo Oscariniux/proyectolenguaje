@@ -6,8 +6,8 @@ const db = new sequelize(
         contraseña */
 
     'movil1',
-    'programovil2',
-    'javiercastejon',
+    'root',
+    '',
     {
         host: 'localhost',
         dialect: 'mysql', //Indicamos el gestor de base de datos al que se va a conectar
